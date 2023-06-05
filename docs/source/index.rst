@@ -5,8 +5,7 @@
 
 Оригинальный текст правил на английском языке можно найти здесь: `https://hkrpg-team.itch.io/hollow-knight-rpg <https://hkrpg-team.itch.io/hollow-knight-rpg>`_
 
-Последнюю версию перевода на русский язык смотрите здесь: `t.me/sneaky_dice`_
-.. _`t.me/sneaky_dice`: t.me/sneaky_dice
+Последнюю версию перевода на русский язык смотрите здесь: `t.me/sneaky_dice <t.me/sneaky_dice>`_
 
 * Используемая версия проекта (системы): 1.0.15
 * Используемая версия перевода: 1.4
