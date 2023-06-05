@@ -15,12 +15,9 @@
    Проект еще в разработке
 
 Оглавление
---------
-.. contents:: preface
-   :depth: 2
-   
-   
+--------  
 .. toctree::
+   :depth: 2
 
    preface
    what is a bug
