@@ -16,4 +16,4 @@
 
 .. toctree::
 
-   
+   credits
