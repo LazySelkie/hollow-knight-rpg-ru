@@ -19,4 +19,5 @@
 
 .. toctree::
 
+   preface
    credits
