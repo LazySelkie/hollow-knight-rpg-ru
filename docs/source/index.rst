@@ -16,7 +16,10 @@
 
 Оглавление
 --------
-
+.. contents:: Предисловие
+   :depth: 2
+   
+   
 .. toctree::
 
    preface
