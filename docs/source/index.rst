@@ -20,6 +20,17 @@
 .. toctree::
 
    preface
-   credits
    what is a bug
    building your bug
+   paths
+   proficiencies
+   advancement
+   weapon arts
+   magic
+   charms
+   equipment
+   combat
+   time travel rest
+   social
+   links
+   credits
