@@ -21,3 +21,5 @@
 
    preface
    credits
+   what is a bug
+   building your bug
