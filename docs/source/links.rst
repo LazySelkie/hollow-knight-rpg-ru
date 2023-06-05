@@ -11,7 +11,7 @@
 """""""""""
 Оукшейд — это оригинальный сеттинг, созданный для НРИ Hollow Knight, чтобы дать игрокам места для исследования, которое не так ограничено по масштабу, как Халлоунест. В Оукшейде есть место для разных кампаний, и его связь с Халлоунестом остается за Мастером.
 
-Информация для сеттинга Оукшейда может быть найдена `здесь <https://docs.google.com/document/d/1U8wS3KHZ7-ZWyfj1ueNbGWOTWU2OiiXsUC_KmNTsU74>`_.:sup:`(англ)`
+Информация для сеттинга Оукшейда может быть найдена `здесь <https://docs.google.com/document/d/1U8wS3KHZ7-ZWyfj1ueNbGWOTWU2OiiXsUC_KmNTsU74/edit#heading=h.p0wetp9u17rq>`_ :sup:`(англ)`.
 
 Существует несколько карт Оукшейда, их можно найти `здесь <https://media.discordapp.net/attachments/626971440071180309/626974472599109635/MapUpdate.png>`_ и `здесь <https://cdn.discordapp.com/attachments/493562581932441611/807451987423133706/Oakshade_map_topview.jpg>`_.
 
