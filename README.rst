@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Добро пожаловать на онлайн-версию правил Hollow Knight RPG
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+**Hollow Knight RPG** это неофициальная НРИ, вдохновленная Hollow Knight.
+Оригинальный текст правил на английском языке можно найти здесь: https://hkrpg-team.itch.io/hollow-knight-rpg
+Последнюю версию перевода на русский язык смотрите здесь: t.me/sneaky_dice
