@@ -17,7 +17,7 @@
 Оглавление
 --------  
 .. toctree::
-   :depth: 2
+   :maxdepth: 2
 
    preface
    what is a bug
