@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Добро пожаловать на онлайн-версию правил Hollow Knight RPG
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Hollow Knight RPG** это неофициальная НРИ, вдохновленная Hollow Knight.
+Оригинальный текст правил на английском языке можно найти здесь: `https://hkrpg-team.itch.io/hollow-knight-rpg <https://hkrpg-team.itch.io/hollow-knight-rpg>`
+Последнюю версию перевода на русский язык смотрите здесь: `t.me/sneaky_dice <t.me/sneaky_dice>`
 
 .. note::
 
-   This project is under active development.
+   Проект еще в разработке
 
-Contents
+Оглавление
 --------
 
 .. toctree::
 
-   usage
-   api
+   
