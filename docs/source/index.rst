@@ -16,7 +16,7 @@
 
 Оглавление
 --------
-.. contents:: Предисловие
+.. contents:: preface
    :depth: 2
    
    
