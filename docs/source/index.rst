@@ -2,8 +2,8 @@
 ===================================
 
 **Hollow Knight RPG** это неофициальная НРИ, вдохновленная Hollow Knight.
-Оригинальный текст правил на английском языке можно найти здесь: `https://hkrpg-team.itch.io/hollow-knight-rpg <https://hkrpg-team.itch.io/hollow-knight-rpg>`
-Последнюю версию перевода на русский язык смотрите здесь: `t.me/sneaky_dice <t.me/sneaky_dice>`
+Оригинальный текст правил на английском языке можно найти здесь: `https://hkrpg-team.itch.io/hollow-knight-rpg <https://hkrpg-team.itch.io/hollow-knight-rpg>`_
+Последнюю версию перевода на русский язык смотрите здесь: `t.me/sneaky_dice <t.me/sneaky_dice>`_
 
 .. note::
 
