@@ -111,7 +111,7 @@
    
    .. figure:: images/Limn.jpg
       :width: 150 px
-      :alt: Шаблоны конусов
+      :alt: Лимн
       :align: right
    
    *Не оставляйте свои Навыки без дела в пылу битвы!*
