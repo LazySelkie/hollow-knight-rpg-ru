@@ -8,4 +8,4 @@
 Черты
 ----------
 
-.. include:: traits_natural
+.. include:: traits_natural.rst
