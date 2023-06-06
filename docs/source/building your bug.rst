@@ -9,7 +9,7 @@
 ~~~~~~~~~~~~~
 
 .. figure:: images/template_small_bug.jpg
-      :width: 150 px
+      :width: 300 px
       :alt: Шаблон характеристик Мелкого жука
       :align: center
 
@@ -17,7 +17,7 @@
 ~~~~~~~~~~~~~
 
 .. figure:: images/template_medium_bug.jpg
-      :width: 150 px
+      :width: 300 px
       :alt: Шаблон характеристик Среднего жука
       :align: center
 
@@ -25,7 +25,7 @@
 ~~~~~~~~~~~~~
 
 .. figure:: images/template_big_bug.jpg
-      :width: 150 px
+      :width: 300 px
       :alt: Шаблон характеристик Большого жука
       :align: center
 
