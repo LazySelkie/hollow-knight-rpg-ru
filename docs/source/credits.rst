@@ -42,3 +42,7 @@
 *Помогали с вычиткой: Марин Нойман, katejunior, millefolium, Willyamsturm, side1ev, Виктор Ксендзов, DarkGD, Jerahmiel, Ilja Tsurubrov,
 kachet0, kolyailya, irina_mist, Илья Ботин, Таратект, IlijaKalamurza, ppantyushin, Jewernice, poleno_ttt, Василий Волков, Dushnilskiy, Александр 
 Грабарский, cartezhik, Эрнест, Mironkk, Wordy, RedBerryPony, Дмитрий Терехов, SilverDrein, ellemilana, Vlad, KITN0 и многие многие другие :3*
+
+Разместили перевод на Read the Docs
+******************************************
+LazySeal и Kote
