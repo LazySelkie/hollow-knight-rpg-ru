@@ -34,7 +34,7 @@
 
 .. note::
    
-   .. figure:: images/Limn.jpg
+   .. figure:: images/Limn.png
       :width: 150 px
       :alt: Лимн
       :align: right
