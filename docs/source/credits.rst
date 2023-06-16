@@ -45,4 +45,4 @@ kachet0, kolyailya, irina_mist, Илья Ботин, Таратект, IlijaKala
 
 Разместили перевод на Read the Docs
 ******************************************
-LazySeal и Kote
+LazySelkie и Kote
